@@ -1,0 +1,9 @@
+#wpt_update {
+	font-family: Helvetica, sans-serif;
+	border: 1px solid #FFE14A;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border-radius: 10px 10px 10px 10px;
+	padding: 20px 20px 20px 20px;
+	background: #FFFBCC;
+	color: #424242;
+}

@@ -1,0 +1,37 @@
+#add-trigger-content{
+	width:600px;
+	margin-top:20px;
+}
+#triggerbox_name{margin-top:10px;}
+#add-trigger-content .trigger-txt{
+	width:100% ;
+	padding: 5px;
+	font-size: 16px;
+}
+
+#add-trigger-content .small-trigger-txt{
+	padding: 3px;
+	font-size: 13px;
+}
+
+#add-trigger-content .one_set_content{margin-top:10px;}
+#add-trigger-content .trigger_button{
+	padding:5px 15px;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+#add-trigger-content .trigger_set_remove{
+	float:right;
+	margin-right:10px;
+}
+#add-trigger-content textarea{
+	border-color:#a6a3a3;
+	width:100%;
+}
+
+#add-trigger-content fieldset{margin-top:25px;}
+
+#add-trigger-content .txtarea_div{width:100%;}
+#add-trigger-content .txtarea_div label{
+	opacity:0.7;
+}
